@@ -37,12 +37,12 @@ _SCRUM_
 `2017 - 2018`
 __Técnico em Informática, SENAI__
 
-- POO em Java\
-- Java Servlets\
-- SCRUM\
-- Javascript (JQuery, Phaser)\
-- Design web com HTML e CSS\
-- Desenvolvimento de bancos de dados em SQL com MySQL
+_POO em Java_
+_Java Servlets_
+_SCRUM_
+_Javascript (JQuery, Phaser)_
+_Design web com HTML e CSS_
+_Desenvolvimento de bancos de dados em SQL com MySQL_
 
 ## Projetos
 
@@ -53,9 +53,9 @@ Liderança do Marketing
 `2020`
 Desenvolvimento do site
     
-- Trabalho com o projeto resgate\
-- Design para postagens, atividades pro projeto resgate, edição de vídeo\
-- Assinaturas de email
+` ` Trabalho com o projeto resgate\
+` ` Design para postagens, atividades pro projeto resgate, edição de vídeo\
+` ` Assinaturas de email
 
 ## Eventos:
 
