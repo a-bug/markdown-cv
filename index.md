@@ -61,8 +61,8 @@ Desenvolvimento do site
 
 __Colóquios de Computação UDESC:__
 
- - React\
- - Lógica de programação\
+ - React
+ - Lógica de programação
  - Java
 
 __Hackvision__
@@ -74,8 +74,8 @@ __IoT IEEE 2019__
 
 ### Hobbies
 
-- Micro-projetos de RPi\
-- Circuitos de pedais\
+- Micro-projetos de RPi
+- Circuitos de pedais
 - Linux
 
 <!-- ### Footer
