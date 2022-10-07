@@ -1,88 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michael CV
 ---
-# Isaac Newton
+# Michael Luis Weiss
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
+| <p>(47) 99684-2001</p>
 </div>
 
 
-## Currently
+## Atualmente
 
-Standing on the shoulders of giants
+Graduando em Ciência e Tecnologia, desenvolvidor
 
-### Specialized in
+### Estudado em
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Programação em C++, C, Python, Java
 
+### Interessado em
 
-### Research interests
+Paradigmas de programação, estruturas de dados,
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Formação:
 
+`2022-presente`
+__Bacharelado em Ciência e Tecnologia, UFSC__
+    
+    C
+    Estruturas de dados
+    POO em C++
+    Python (numpy)
+    SCRUM
 
-## Education
+`2017 - 2018`
+__Técnico em Informática, SENAI__
 
-`1654-1660`
-__The King's School, Grantham.__
+    POO em Java
+    Java Servlets
+    SCRUM
+    Javascript (JQuery, Phaser)
+    Design web com HTML e CSS
+    Desenvolvimento de bancos de dados em SQL com MySQL
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projetos
 
-- Sizar
+__Eficem__
+`2020-2022`
+Liderança do Marketing 
+    
+`2020`
+Desenvolvimento do site
+    
+Trabalho com o projeto resgate
+Design para postagens, atividades pro projeto resgate, edição de vídeo
+Assinaturas de email
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Eventos:
 
-- Fellow
+Colóquios de Computação UDESC:
 
+    ####React
+    ####Lógica de programação
+    ####Java
 
+Hackvision
 
-## Awards
+Hacktoberfest 2019
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+IoT IEEE 2019
 
 
+### Hobbies
+
+Micro-projetos de RPi
+Circuitos de pedais
+Linux
 
 <!-- ### Footer
 
