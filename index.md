@@ -53,9 +53,9 @@ Liderança do Marketing
 `2020`
 Desenvolvimento do site
     
-` ` Trabalho com o projeto resgate\
-` ` Design para postagens, atividades pro projeto resgate, edição de vídeo\
-` ` Assinaturas de email
+- Trabalho com o projeto resgate
+- Design para postagens, atividades pro projeto resgate, edição de vídeo
+- Assinaturas de email
 
 ## Eventos:
 
