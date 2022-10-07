@@ -28,21 +28,21 @@ Paradigmas de programação, estruturas de dados,
 `2022-presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
     
-    - C
-    - Estruturas de dados
-    - POO em C++
-    - Python (numpy)
-    - SCRUM
+- C\
+- Estruturas de dados\
+- POO em C++\
+- Python (numpy)\
+- SCRUM
 
 `2017 - 2018`
 __Técnico em Informática, SENAI__
 
-    - POO em Java
-    - Java Servlets
-    - SCRUM
-    - Javascript (JQuery, Phaser)
-    - Design web com HTML e CSS
-    - Desenvolvimento de bancos de dados em SQL com MySQL
+- POO em Java\
+- Java Servlets\
+- SCRUM\
+- Javascript (JQuery, Phaser)\
+- Design web com HTML e CSS\
+- Desenvolvimento de bancos de dados em SQL com MySQL
 
 ## Projetos
 
@@ -53,17 +53,17 @@ Liderança do Marketing
 `2020`
 Desenvolvimento do site
     
-- Trabalho com o projeto resgate
-- Design para postagens, atividades pro projeto resgate, edição de vídeo
+- Trabalho com o projeto resgate\
+- Design para postagens, atividades pro projeto resgate, edição de vídeo\
 - Assinaturas de email
 
 ## Eventos:
 
 __Colóquios de Computação UDESC:__
 
-    - React
-    - Lógica de programação
-    - Java
+ - React\
+ - Lógica de programação\
+ - Java
 
 __Hackvision__
 
@@ -74,8 +74,8 @@ __IoT IEEE 2019__
 
 ### Hobbies
 
-- Micro-projetos de RPi
-- Circuitos de pedais
+- Micro-projetos de RPi\
+- Circuitos de pedais\
 - Linux
 
 <!-- ### Footer
