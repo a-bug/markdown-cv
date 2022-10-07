@@ -28,21 +28,21 @@ Paradigmas de programação, estruturas de dados,
 `2022-presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
     
-_C_
-_Estruturas de dados_
-_POO em C++_
-_Python (numpy)_
-_SCRUM_
+- C
+- Estruturas de dados
+- POO em C++
+- Python (numpy)
+- SCRUM
 
 `2017 - 2018`
 __Técnico em Informática, SENAI__
 
-_POO em Java_
-_Java Servlets_
-_SCRUM_
-_Javascript (JQuery, Phaser)_
-_Design web com HTML e CSS_
-_Desenvolvimento de bancos de dados em SQL com MySQL_
+- POO em Java
+- Java Servlets
+- SCRUM
+- Javascript (JQuery, Phaser)
+- Design web com HTML e CSS
+- Desenvolvimento de bancos de dados em SQL com MySQL
 
 ## Projetos
 
