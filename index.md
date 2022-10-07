@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Michael CV
+title: Michael
 ---
 # Michael Luis Weiss
-Physicist, Mathematician, Cambridge professor.
+Desenvolvedor, Estudante
 
 <div id="webaddress">
 <a href="mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
-| <p>(47) 99684-2001</p>
+<a>(47) 99684-2001</a>
 </div>
 
 
 ## Atualmente
 
-Graduando em Ciência e Tecnologia, desenvolvidor
+Graduando em Ciência e Tecnologia
 
 ### Estudado em
 
