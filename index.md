@@ -46,7 +46,7 @@ __Técnico em Informática, SENAI__
 
 ## Projetos
 
-__Eficem__
+### Eficem
 `2020-2022`
 Liderança do Marketing 
     
@@ -59,17 +59,17 @@ Assinaturas de email
 
 ## Eventos:
 
-Colóquios de Computação UDESC:
+__Colóquios de Computação UDESC:__
 
-    ####React
-    ####Lógica de programação
-    ####Java
+    React
+    Lógica de programação
+    Java
 
-Hackvision
+__Hackvision__
 
-Hacktoberfest 2019
+__Hacktoberfest 2019__
 
-IoT IEEE 2019
+__IoT IEEE 2019__
 
 
 ### Hobbies
