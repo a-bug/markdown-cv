@@ -28,11 +28,11 @@ Paradigmas de programação, estruturas de dados,
 `2022-presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
     
-- C\
-- Estruturas de dados\
-- POO em C++\
-- Python (numpy)\
-- SCRUM
+_C_
+_Estruturas de dados_
+_POO em C++_
+_Python (numpy)_
+_SCRUM_
 
 `2017 - 2018`
 __Técnico em Informática, SENAI__
