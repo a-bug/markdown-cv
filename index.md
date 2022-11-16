@@ -7,8 +7,8 @@ Desenvolvedor, Estudante
 
 <div id="webaddress">
 <a href="mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
-<a href="curriculum vitae">a-bug.github.io/markdown-cv</a>
-<a>(47) 99684-2001</a>
+<a href="a-bug.github.io/markdown-cv">curriculum vitae</a>
+<a>+55 (47) 99684-2001</a>
 </div>
 
 
@@ -19,10 +19,12 @@ Graduando em Ciência e Tecnologia
 ### Estudado em
 
 Programação em C++, C, Python, Java
+Fluente em inglês, Nível intermediário em italiano
+Pacote Office
 
 ### Interessado em
 
-Paradigmas de programação, estruturas de dados,
+Paradigmas de programação, estruturas de dados
 
 ## Formação:
 
@@ -53,7 +55,6 @@ Liderança do Marketing
     
 `2020`
 Desenvolvimento do site
-    
 - Trabalho com o projeto resgate
 - Design para postagens, atividades pro projeto resgate, edição de vídeo
 - Assinaturas de email
@@ -78,10 +79,10 @@ __IoT IEEE 2019__
 - Micro-projetos de RPi
 - Circuitos de pedais
 - Linux
-- Programação funcinal
+- Programação funcional
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2022 -->
 
 
