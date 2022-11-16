@@ -18,9 +18,9 @@ Graduando em Ciência e Tecnologia
 
 ### Estudado em
 
-Programação em C++, C, Python, Java
-Fluente em inglês, Nível intermediário em italiano
-Pacote Office
+- Programação em C++, C, Python, Java
+- Fluente em inglês, Nível intermediário em italiano
+- Pacote Office
 
 ### Interessado em
 
