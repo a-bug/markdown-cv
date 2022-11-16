@@ -6,9 +6,9 @@ title: Michael
 Desenvolvedor, Estudante
 
 <div id="webaddress">
-<a href="mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
-<a href="a-bug.github.io/markdown-cv">curriculum vitae</a>
-<a>+55 (47) 99684-2001</a>
+<a href="mailto:mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
+<a href="https://a-bug.github.io/markdown-cv">curriculum vitae</a>
+<a href="tel:+55 (47) 99684-2001">+55 (47) 99684-2001</a>
 </div>
 
 
