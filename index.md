@@ -37,6 +37,10 @@ Estudos em:
 - Python (com numpy, matplot)
 - SCRUM
 
+
+`2019-2022`
+__Engenharia de Transportes e Logística, UFSC__
+
 `2017 - 2018`
 __Técnico em Informática, SENAI__
 Estudos em:
