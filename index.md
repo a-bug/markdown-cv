@@ -30,7 +30,7 @@ Paradigmas de programação, estruturas de dados
 
 `2022 - presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
-Estudos em:
+- Estudos em:
 - C
 - Estruturas de dados
 - POO em C++
@@ -43,7 +43,7 @@ __Engenharia de Transportes e Logística, UFSC__
 
 `2017 - 2018`
 __Técnico em Informática, SENAI__
-Estudos em:
+- Estudos em:
 - POO em Java
 - Java Servlets
 - SCRUM
