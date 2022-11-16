@@ -6,9 +6,9 @@ title: Michael
 Desenvolvedor, Estudante
 
 <div id="webaddress">
-<a href="mailto:mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
+<a href="mailto:mic.weiss.hael@gmail.com">email</a>
 <a href="https://a-bug.github.io/markdown-cv">curriculum vitae</a>
-<a href="tel:+55 (47) 99684-2001">+55 (47) 99684-2001</a>
+<a href="tel:+55 (47) 99684-2001">telefone</a>
 </div>
 
 
@@ -28,7 +28,7 @@ Paradigmas de programação, estruturas de dados
 
 ## Formação:
 
-`2022-presente`
+`2022 - presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
 Estudos em:
 - C
@@ -38,7 +38,7 @@ Estudos em:
 - SCRUM
 
 
-`2019-2022`
+`2019 - 2022`
 __Engenharia de Transportes e Logística, UFSC__
 
 `2017 - 2018`
