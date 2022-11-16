@@ -7,6 +7,7 @@ Desenvolvedor, Estudante
 
 <div id="webaddress">
 <a href="mic.weiss.hael@gmail.com">mic.weiss.hael@gmail.com</a>
+<a href="curriculum vitae">a-bug.github.io/markdown-cv</a>
 <a>(47) 99684-2001</a>
 </div>
 
@@ -27,20 +28,20 @@ Paradigmas de programação, estruturas de dados,
 
 `2022-presente`
 __Bacharelado em Ciência e Tecnologia, UFSC__
-    
+Estudos em:
 - C
 - Estruturas de dados
 - POO em C++
-- Python (numpy)
+- Python (com numpy, matplot)
 - SCRUM
 
 `2017 - 2018`
 __Técnico em Informática, SENAI__
-
+Estudos em:
 - POO em Java
 - Java Servlets
 - SCRUM
-- Javascript (JQuery, Phaser)
+- Javascript e frameworks (JQuery, Phaser)
 - Design web com HTML e CSS
 - Desenvolvimento de bancos de dados em SQL com MySQL
 
@@ -77,6 +78,7 @@ __IoT IEEE 2019__
 - Micro-projetos de RPi
 - Circuitos de pedais
 - Linux
+- Programação funcinal
 
 <!-- ### Footer
 
