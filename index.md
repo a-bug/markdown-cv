@@ -8,7 +8,7 @@ Desenvolvedor, Estudante
 <div id="webaddress">
 <a href="mailto:mic.weiss.hael@gmail.com">email</a>
 <a href="https://a-bug.github.io/markdown-cv">curriculum vitae</a>
-<a href="tel:+55 (47) 99684-2001">telefone</a>
+<a href="tel:55-47-99684-2001">telefone</a>
 </div>
 
 
